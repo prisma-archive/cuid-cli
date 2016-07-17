@@ -6,3 +6,10 @@ cuid cli tool (based on ericelliott/cuid)
 ```sh
 $ npm install -g cuid-cli
 ```
+
+## Usage
+
+```sh
+$ cuid
+> ciqqcpdd00000o7s1pw4lltg8
+```
