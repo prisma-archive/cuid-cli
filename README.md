@@ -1,5 +1,5 @@
 # cuid-cli
-cuid cli tool (based on ericelliott/cuid)
+cuid cli tool (based on [ericelliott/cuid](https://github.com/ericelliott/cuid))
 
 ## Install
 
