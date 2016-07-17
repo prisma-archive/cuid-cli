@@ -2,4 +2,4 @@
 
 const cuid = require('cuid')
 
-console.log(cuid())
+process.stdout.write(cuid())

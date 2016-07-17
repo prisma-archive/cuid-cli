@@ -1,6 +1,6 @@
 {
   "name": "cuid-cli",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "description": "cuid cli tool (based on ericelliott/cuid)",
   "bin": {
     "cuid": "bin/cuid.js"
