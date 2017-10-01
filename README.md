@@ -1,4 +1,6 @@
 # cuid-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool/cuid-cli.svg)](https://greenkeeper.io/)
 cuid cli tool (based on [ericelliott/cuid](https://github.com/ericelliott/cuid))
 
 ## Install
